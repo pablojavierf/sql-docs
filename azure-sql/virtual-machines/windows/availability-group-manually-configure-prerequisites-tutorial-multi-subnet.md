@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Prerequisites for AG in multiple subnets"
-description: "This tutorial shows how to configure the prerequisites for creating an Always On availability group in multiple subnets for SQL Server on Azure Virtual Machines (VMs). "
+description: "This tutorial shows how to configure the prerequisites for creating an Always On availability group in multiple subnets for SQL Server on premises, on Azure Virtual Machines (VMs) or Hybrid Environments. "
 services: virtual-machines
 documentationCenter: na
 author: adbadram
